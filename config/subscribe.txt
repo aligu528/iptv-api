@@ -18,6 +18,7 @@ http://wx.thego.cn/df.txthttp://wx.thego.cn/backup.m3u
 https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 http://101.34.236.223:1999
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 
 
