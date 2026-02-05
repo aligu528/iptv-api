@@ -1,27 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
-https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
-https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV%2B%E5%8D%AB%E8%A7%86-%E8%85%BE%E8%AE%AF%E4%BA%91.m3u8 
-https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV%2B%E5%8D%AB%E8%A7%86%2B%E5%9C%B0%E6%96%B9%E5%8F%B0-%E5%AE%89%E5%BE%BD%E5%86%9C%E5%A4%A7.m3u8
-https://iptv-org.github.io/iptv/index.m3u
-https://iptv-org.github.io/iptv/countries/cn.m3u
-https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-http://wx.thego.cn/df.txthttp://wx.thego.cn/backup.m3u
-https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
-https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
-http://101.34.236.223:1999
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
-
-
-[WHITELIST]
-# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
-# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
